@@ -1,4 +1,4 @@
-# Modüler Açık Kaynak Kendin Yap 900 Derece Direksiyon Seti
+# Modüler Açık Kaynak Kodlu Kendin Yap 900 Derece Direksiyon Seti
 
 ## Gerekli Modüller
 
@@ -36,6 +36,7 @@ pip install pyserial pyvjoy
 
 - Joystick modülü ile H vites kolu yapılabilir
 - Ben denedim ama yapamadım, peygamber sabrı istiyor
+- Şuanda gaz ileri fren geri olarak oynuyorum ancak bir anahtar ile basit bir ileri-geri otomatik vitesi yapılabilir
 - Kafana göre takıl modifiye et
 
 ---
