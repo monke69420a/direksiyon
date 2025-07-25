@@ -20,23 +20,23 @@
 
 1. Arduino'yu hazırla  
 2. Kablo bağlantılarını yap  
-3. İstersen evde olan şeyleri kullan, istersen 3D yazıcıdan bas (pedal, direksiyon vs.)  
+3. İstersen evde olan şeyleri kullan, istersen 3D yazıcıdan bas (pedal, direksiyon vs)  
 4. Python ortamını hazırla  
-5. pip ile gereklilikleri indir:
+5. pip ile gereklilikleri indir
 
 pip install pyserial pyvjoy
 
 6. vJoy'u indir ve kur  
-7. Oynayacağın oyunda ayarlamalarını yap (gaz, fren, direksiyon vs.)  
-8. Geç direksiyon başına, oyna
+7. Oynayacağın oyunda ayarlamalarını yap (gaz, fren, direksiyon vs)  
+8. oyna
 
 ---
 
 ## Not
 
-- Joystick modülü ile H vites kolu yapılabilir.
+- Joystick modülü ile H vites kolu yapılabilir
 - Ben denedim ama yapamadım, peygamber sabrı istiyor
-- Kafana göre takıl, modifiye et.
+- Kafana göre takıl modifiye et
 
 ---
 
