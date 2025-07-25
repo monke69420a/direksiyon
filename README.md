@@ -4,7 +4,7 @@
 
 - KY-040 **rotary enkoder modülü**  
 - **Arduino Uno**  
-- **Butonlar** (ben buton kullandım ama kodda potansiyometre kullanmaya açık)
+- **Butonlar** (ben buton kullandım ama potansiyometre kullansan sıkıntı çıkmaz sadece analog pinlerine tak potansiyometreyi)
 
 ---
 
