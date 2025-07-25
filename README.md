@@ -1,29 +1,45 @@
-# direksiyon
-modüler açık kaynaklı kendin yap 900 derece direksiyon seti
+# Modüler Açık Kaynak Kendin Yap 900 Derece Direksiyon Seti
 
-# gerekli modüller
-ky040 rotary enkoder modülü
-arduino uno
-butonlar (ben buton kullandım ancak kodda potansiyometre kullanmaya açık)
+## Gerekli Modüller
 
-# gerekli olan programlar
-python 3.12
-arduino ide
-vjoy (https://www.vjoy.org/download-for-windows)
+- KY-040 **rotary enkoder modülü**  
+- **Arduino Uno**  
+- **Butonlar** (ben buton kullandım ama kodda potansiyometre kullanmaya açık)
 
-# nasıl yapılır
-arduinoyu hazırla
-kablo bağlantılarını yap
-istersen evde olan şeyleri kullan istersen 3d yazıcıdan bas (pedal, direksiyon vs)
-python hazırla
-sonra pip ile gereklilikleri indir
-(pip install pyserial pyvjoy)
-vjoy indir
-oynayacağın oyunda ayarlamalarını yap (gaz, fren, direksiyon vs)
-oyna
+---
 
+## Gerekli Programlar
 
-# not
-joystick modülü ile h vites kolu yapılabilir, ben denedim ama yapamadım peygamber sabrı istiyor
-kafana göre takıl 
-discord: alfredhelps
+- [Python 3.12](https://www.python.org/downloads/release/python-3120/)  
+- [Arduino IDE](https://www.arduino.cc/en/software)  
+- [vJoy](https://www.vjoy.org/download-for-windows)
+
+---
+
+## Nasıl Yapılır
+
+1. Arduino'yu hazırla  
+2. Kablo bağlantılarını yap  
+3. İstersen evde olan şeyleri kullan, istersen 3D yazıcıdan bas (pedal, direksiyon vs.)  
+4. Python ortamını hazırla  
+5. pip ile gereklilikleri indir:
+\`\`\`bash
+pip install pyserial pyvjoy
+\`\`\`
+6. vJoy'u indir ve kur  
+7. Oynayacağın oyunda ayarlamalarını yap (gaz, fren, direksiyon vs.)  
+8. Geç direksiyon başına, oyna
+
+---
+
+## Not
+
+- Joystick modülü ile H vites kolu yapılabilir.
+- Ben denedim ama yapamadım, peygamber sabrı istiyor
+- Kafana göre takıl, modifiye et.
+
+---
+
+## İletişim
+
+Discord: \`alfredhelps\`
