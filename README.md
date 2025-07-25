@@ -42,4 +42,4 @@ pip install pyserial pyvjoy
 
 ## İletişim
 
-Discord: \`alfredhelps\`
+Discord: alfredhelps
