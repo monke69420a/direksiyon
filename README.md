@@ -23,9 +23,9 @@
 3. İstersen evde olan şeyleri kullan, istersen 3D yazıcıdan bas (pedal, direksiyon vs.)  
 4. Python ortamını hazırla  
 5. pip ile gereklilikleri indir:
-\`\`\`bash
+
 pip install pyserial pyvjoy
-\`\`\`
+
 6. vJoy'u indir ve kur  
 7. Oynayacağın oyunda ayarlamalarını yap (gaz, fren, direksiyon vs.)  
 8. Geç direksiyon başına, oyna
