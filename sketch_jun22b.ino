@@ -20,8 +20,8 @@ void setup() {
 }
 
 void loop() {
-  int gaz = digitalRead(gazPin) == LOW ? 1023 : 0;    // Butona basınca gaz ver
-  int fren = digitalRead(frenPin) == LOW ? 1023 : 0;  // Butona basınca fren yap
+  int gaz = digitalRead(gazPin) == LOW ? 1023 : 0;  
+  int fren = digitalRead(frenPin) == LOW ? 1023 : 0;  
 
   Serial.print(encoderPos);
   Serial.print(',');
